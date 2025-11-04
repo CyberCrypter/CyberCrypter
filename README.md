@@ -3,10 +3,10 @@
 
 Email Me 👉 ✉️ **jitendas9574@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🌱 **I’m currently learning:** React Native
+- 🌱 **I’m currently learning:** Java
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** jitendas9574@gmail.com
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- ⚡ **Fun fact:** Errors find me before I find them
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=CyberCrypter&theme=radical&no-frame=false&no-bg=true&margin-w=4)
