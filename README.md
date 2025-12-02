@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **jitendas9574@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🌱 **I’m currently learning:** Java
+- 🌱 **I’m currently learning:** React Native
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** jitendas9574@gmail.com
 - ⚡ **Fun fact:** Errors find me before I find them
